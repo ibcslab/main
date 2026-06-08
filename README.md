@@ -7,7 +7,7 @@ Istanbul Technical University (ITU).
 > **neurotechnology, artificial intelligence, virtual reality and multi-modal
 > sensor fusion.**
 
-🔗 **Live site:** `https://<ibcslab>.github.io/main/`
+🔗 **Live site:** `https://ibcslab.github.io/main/`
 
 ---
 
